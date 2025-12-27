@@ -1,6 +1,6 @@
 # Gloria Voice Assistant: Учебный курс по созданию голосового ассистента
 
-![Gloria Voice Assistant](https://via.placeholder.com/800x200.png?text=Gloria+Voice+Assistant)
+![Gloria Voice Assistant]([https://via.placeholder.com/800x200.png?text=Gloria+Voice+Assistant](https://img.freepik.com/premium-vector/digital-chat-bot-robot-assistant-customer-support-concept-virtual-conversation-assistant-getting-help-vector-illustration-isolated-white-background_714605-1045.jpg))
 
 **Описание курса:**  
 Этот курс предназначен для студентов и преподавателей, которые хотят изучить создание голосового ассистента на Python с использованием технологий распознавания и синтеза речи. Курс демонстрирует полный цикл разработки: от прослушивания команд через микрофон до воспроизведения речи, управления музыкой и отображения эмоций через GUI.  
