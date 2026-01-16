@@ -71,6 +71,7 @@ pyaudio
 tkinter
 Pillow
 g4f (опционально для работы с OpenAI API)
+pyserial
 ```
 Как запустить
 
